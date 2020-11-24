@@ -1,0 +1,7 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2019/04/22/03/38/marble-4145542__340.jpg");
+}
+
+.grid{ display: flex; flex-wrap: wrap; font-family: sans-serif; }
+.grid img{ border: 2px solid black; border-radius: 50px; }
+.origami { border-radius: 20px; width:310px; font-family: fantasy; }
